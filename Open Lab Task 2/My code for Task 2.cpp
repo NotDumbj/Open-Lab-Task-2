@@ -6,7 +6,7 @@ int main()
 	int choice, count, j;
 	do
 	{
-		cout << "PRIME NUMBER IDENTIFIER";
+		cout << "PRIME NUMBER CHECKER";
 		cout << "\n\nChoose one option;";
 		cout << "\nCheck Prime Number in:   1. Range\n                         2. Individual";
 		cout << "\nYour option no. = ";
